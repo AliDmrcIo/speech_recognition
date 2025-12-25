@@ -1,4 +1,4 @@
-# AI Speech Recognition & Diarization (End-to-End Full Stack AI Project)
+# Speech Recognition & Speaker Diarization (End-to-End AI Project)
 
 🔗 **Live on:** [http://whosayswhat.duckdns.org](http://whosayswhat.duckdns.org)
 This is the live production version of the project. You can directly upload your audio files and test the AI-based speech recognition and speaker diarization system from this link.
