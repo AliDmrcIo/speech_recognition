@@ -90,7 +90,7 @@ The main goal of this project is to build a **robust, scalable, and efficient AI
 *   **`app.py`**
     *   Main entry point for the Streamlit application.
 *   **`Dockerfile`**
-    *   Highly optimized `python:3.10-slim` image with CPU-only PyTorch build.
+    *   `python:3.13.3` image with CPU-only PyTorch build.
 *   **`requirements.txt`**
     *   List of dependencies optimized for cloud deployment.
 *   **`.env`**
