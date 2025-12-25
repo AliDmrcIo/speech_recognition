@@ -5,6 +5,13 @@ This is the live production version of the project. You can directly upload your
 
 ---
 
+
+
+https://github.com/user-attachments/assets/b520ab1b-c594-408d-94c9-a55f1c77220c
+
+
+
+---
 ## Project Description
 
 This project is a full-stack, production-ready **AI-powered speech analysis system**. Users can upload audio files, transcribe speech to text using state-of-the-art **ASR (Automatic Speech Recognition) models**, and automatically identify distinct **Speaker Diarization**. The system features a dual-mode processing engine (Fast vs. Pro) and exports color-coded transcripts in Word format.
