@@ -180,7 +180,7 @@ Since `Pyannote.audio` models are gated, the application requires authentication
 ## Production Deployment
 
 *   **Deployed on:** `AWS EC2 (Ubuntu)`
-*   **Optimization:** Configured with **Swap Memory (4GB)** to handle model loading on limited RAM.
+*   **Optimization:** Configured with **Swap Memory (8GB)** to handle model loading on limited RAM.
 *   **Docker Optimization:** Uses `torch --index-url .../cpu` to reduce image size by removing CUDA dependencies.
 *   **Access:** Served via `DuckDNS` with Port 80 redirection.
 
